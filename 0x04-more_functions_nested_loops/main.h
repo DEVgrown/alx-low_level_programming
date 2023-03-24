@@ -1,6 +1,6 @@
 #ifndef MAIN_H
 #define HEAD_H
-
+int _varchar(char c); 
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
