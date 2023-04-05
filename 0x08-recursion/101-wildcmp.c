@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * length - helps do it
- * @s2 : string
- * Return: always 0
+ * char
+ * @s* : special char
+ * Return: special character
  */
 int wildcmp(char *s1, char *s2) {
         if (*s1 == '\0' && *s2 == '\0') {
